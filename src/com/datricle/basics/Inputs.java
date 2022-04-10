@@ -1,4 +1,4 @@
-package com.datricle;
+package com.datricle.basics;
 
 import java.util.Scanner;
 

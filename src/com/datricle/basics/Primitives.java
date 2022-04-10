@@ -1,4 +1,4 @@
-package com.datricle;
+package com.datricle.basics;
 
 public class Primitives {
     public static void main(String[] args) {
