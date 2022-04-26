@@ -6,7 +6,16 @@ public class sumofTwoNumbers {
 
     public static void main(String[] args) {
         //sum();
-        System.out.println(sumTwo());
+        //System.out.println(sumTwo());
+
+        System.out.println(sumthree(20, 50));
+    }
+
+    //passing two numbers when you calling the method in main
+    static int sumthree(int a, int b) {
+        int sum = a + b;
+        return sum;
+
     }
 
     static int sumTwo() {
